@@ -23,3 +23,5 @@ describe('GET /', () => {
       }, done);
   });
 });
+
+//Testam o código usando o ESLint
